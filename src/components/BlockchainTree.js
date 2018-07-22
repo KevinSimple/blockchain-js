@@ -113,7 +113,9 @@ class BlockchainWelcome extends Component {
         {this.state.showBlock === null && (
           <WalkthroughDialog step={16} title="The end" nextLabel="Bye!">
             <div>
-           
+              <p>
+               
+              </p>
             </div>
           </WalkthroughDialog>
         )}
